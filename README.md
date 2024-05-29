@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lydia
+- 🌱 I’m currently learning Data Analyst
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning Data Analyst 
 - 💞️ I’m looking to collaborate on this platform
 - 📫 You can reach out to me here
 
